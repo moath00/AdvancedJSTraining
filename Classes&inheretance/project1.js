@@ -3,7 +3,7 @@ class Hotel {
     #maxFloor;
 
     // Constructor that initializes a new instance of Hotel.
-    // Recives address, number of rooms and rooms.
+    // Receives address, number of rooms and rooms.
     constructor(Address, NumberOfRooms, rooms) {
         this.Address = Address;
         this.NumberOfRooms = NumberOfRooms;
